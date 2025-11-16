@@ -1,0 +1,22 @@
+================================================================================
+Document Ranking Results using TF-IDF and Cosine Similarity
+================================================================================
+
+
+================================================================================
+Query 1: IMF global growth forecast 2025Chinese hackers Claude AI cyberattacksrenewable energy stop fossil fuel growthNASA ESCAPADE Mars missionAI Crohn's disease treatment discoveryOpenAI Microsoft AGI restrictionsAI powered cyberattacks 2025renewable energy investment 2025AI medical research drug discoverytechnology companies AI competition
+================================================================================
+
+Ranked Documents (by relevance):
+--------------------------------------------------------------------------------
+1. D5 (2).txt                               | Similarity: 0.2667
+2. D6 (2).txt                               | Similarity: 0.2555
+3. D3 (2).txt                               | Similarity: 0.2385
+4. D2 (2).txt                               | Similarity: 0.2385
+5. D4 (2).txt                               | Similarity: 0.2013
+6. D1 (2).txt                               | Similarity: 0.1718
+
+
+================================================================================
+End of Results
+================================================================================
